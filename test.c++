@@ -14,7 +14,7 @@ for(int st=0;st<n;st++){
 
     }
 
-cout<< "max subarray sum = "<< maxSum<<endl;
+cout<< "max subarray sum aadarsh = "<< maxSum<<endl;
 return 0;
 
 
